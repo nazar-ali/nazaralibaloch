@@ -1,0 +1,13 @@
+{
+  "user": {
+    "name": "nazarali123",
+    "email": "nazaralibaloch3@gmail.com",
+    "password": "admin123",
+    "portal": "Student",
+    "management": {
+      "universityName": "Bahria University",
+      "email": "Learning Management System",
+      "password": "admin123"
+    }
+  }
+}
